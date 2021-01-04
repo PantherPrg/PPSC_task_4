@@ -1,0 +1,13 @@
+7198 27598
+forward 2793
+left 90
+forward 1637
+right 180
+forward 17
+forward 2375
+right 90
+forward 28
+left 270
+forward 2777
+left 90
+forward 2898
