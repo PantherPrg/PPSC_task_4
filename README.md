@@ -13,6 +13,6 @@ You are to return the final coordinates of the robot, seperated by a space. "x x
 __________________________________________________________________________________
 This problem deals with lists, finding values using the indexes of a list, casting datatypes, for loops, and if statements. This task will help you get comfortable with using lists.
 
-For additional help, either ask Paul, Joshua, Mr. Blatner, or any other staff member for assistance. If multiple people have the same obstacles, we would be able to go over them during the club. 
+For additional help, either ask Paul, Joshua, Mr. Blattner, or any other staff member for assistance. If multiple people have the same obstacles, we would be able to go over them during the club. 
 
 Otherwise, you can use https://tutorialdeep.com/knowhow/get-list-element-by-index-python/ for getting items in a list using indexes, https://www.w3schools.com/python/python_for_loops.asp for for loops, and https://www.w3schools.com/python/gloss_python_if_statement.asp for if statements. 
