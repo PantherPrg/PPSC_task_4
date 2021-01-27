@@ -11,6 +11,8 @@ ________________________________________________________________________________
 **Output**:
 You are to return the final coordinates of the robot, seperated by a space. "x x\n". Remember to add in the last newline. This is needed to match the format for the task result.
 __________________________________________________________________________________
+**optional challenge: write you code in under 17 lines**
+
 This problem deals with lists, finding values using the indexes of a list, casting datatypes, for loops, and if statements. This task will help you get comfortable with using lists.
 
 For additional help, either ask Paul, Joshua, Mr. Blattner, or any other staff member for assistance. If multiple people have the same obstacles, we would be able to go over them during the club. 
